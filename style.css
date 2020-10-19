@@ -1,0 +1,37 @@
+body{
+    text-align:center;
+    font-weight: bold;
+}
+
+#text{
+    font-size:40px;
+    font-family: 'Monoton', cursive;
+    color: blueviolet;
+}
+#contact iframe{
+    width:100%;
+}
+#contact{
+    background-color:firebrick;
+}
+#best places inside school{
+    text-align: center;
+}
+.travel_mainDiv{
+    text-align: center;
+}
+#atlantis{
+    text-align: center;
+}
+#brandon{
+    text-align: center;
+}
+#arctic{
+    height:200px;
+}
+#mandala_goenka{
+    height:200px;
+}
+#planetthathasaproblem{
+    height:200px;
+}
